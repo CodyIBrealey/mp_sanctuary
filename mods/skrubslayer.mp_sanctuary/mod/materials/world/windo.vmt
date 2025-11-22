@@ -1,6 +1,0 @@
-LightmappedGeneric
-{
-    $basetexture world/windo
-    $surfaceprop concrete
-    $selfillum 1
-}

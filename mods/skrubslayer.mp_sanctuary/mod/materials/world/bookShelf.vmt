@@ -1,6 +1,0 @@
-LightmappedGeneric
-{
-    $basetexture world/bookShelf
-    $surfaceprop concrete
-    $selfillum 1
-}

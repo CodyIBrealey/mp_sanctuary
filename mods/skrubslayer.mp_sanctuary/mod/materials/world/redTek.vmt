@@ -1,6 +1,0 @@
-LightmappedGeneric
-{
-    $basetexture world/redTek
-    $surfaceprop concrete
-    $selfillum 1
-}
