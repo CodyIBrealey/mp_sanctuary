@@ -1,6 +1,0 @@
-LightmappedGeneric
-{
-    $basetexture world/shamelessPlug
-    $surfaceprop concrete
-    $selfillum 1
-}

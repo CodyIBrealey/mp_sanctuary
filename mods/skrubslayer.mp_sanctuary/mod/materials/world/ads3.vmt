@@ -1,6 +1,0 @@
-LightmappedGeneric
-{
-    $basetexture world/ads3
-    $surfaceprop concrete
-    $selfillum 1
-}
